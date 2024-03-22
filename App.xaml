@@ -1,0 +1,9 @@
+﻿<Application x:Class="Kartkowka3P2203KB.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Kartkowka3P2203KB"
+             StartupUri="PokazSrednia.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
